@@ -1,7 +1,7 @@
 #### [Velaptor](index.md 'index')
 ### [Velaptor.Content](Velaptor.Content.md 'Velaptor.Content')
 
-## ILoader&lt;T&gt; Interface
+## ILoader<T> Interface
 
 Loads data of type [T](Velaptor.Content.ILoader_T_.md#Velaptor.Content.ILoader_T_.T 'Velaptor.Content.ILoader<T>.T').
 
@@ -26,7 +26,7 @@ Derived
 
 <a name='Velaptor.Content.ILoader_T_.Load(string)'></a>
 
-## ILoader&lt;T&gt;.Load(string) Method
+## ILoader<T>.Load(string) Method
 
 Loads data with the given [contentPathOrName](Velaptor.Content.ILoader_T_.md#Velaptor.Content.ILoader_T_.Load(string).contentPathOrName 'Velaptor.Content.ILoader<T>.Load(string).contentPathOrName').
 
@@ -47,7 +47,7 @@ The data loaded from disk.
 
 <a name='Velaptor.Content.ILoader_T_.Unload(string)'></a>
 
-## ILoader&lt;T&gt;.Unload(string) Method
+## ILoader<T>.Unload(string) Method
 
 Unloads the data with the given [contentPathOrName](Velaptor.Content.ILoader_T_.md#Velaptor.Content.ILoader_T_.Unload(string).contentPathOrName 'Velaptor.Content.ILoader<T>.Unload(string).contentPathOrName').
 
