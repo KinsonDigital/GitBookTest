@@ -10,7 +10,7 @@ public sealed class AtlasLoader :
 Velaptor.Content.ILoader<Velaptor.Content.IAtlasData>
 ```
 
-Inheritance [System.Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object 'System.Object') &#129106; AtlasLoader
+Inheritance [System.Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object 'System.Object') ➡️ AtlasLoader
 
 Implements [Velaptor.Content.ILoader<](Velaptor.Content.ILoader_T_.md 'Velaptor.Content.ILoader<T>')[IAtlasData](Velaptor.Content.IAtlasData.md 'Velaptor.Content.IAtlasData')[>](Velaptor.Content.ILoader_T_.md 'Velaptor.Content.ILoader<T>')
 ### Constructors
